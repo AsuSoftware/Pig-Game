@@ -11,3 +11,6 @@ In this project will use Vanilla Javascript without any framework.
 - ClassList
 - Image manipolation
 - And other things..
+
+# Play Game
+https://ping-game-82e80.web.app/
